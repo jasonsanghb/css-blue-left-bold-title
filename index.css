@@ -1,0 +1,8 @@
+.blue-left-bold-title {
+    border-left: 10px solid #2196f3;
+    padding: 10px;
+    background-color: #f8f8f8;
+    font-weight: 700;
+    font-size: 16px;
+    color: #58666e;
+}
